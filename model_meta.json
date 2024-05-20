@@ -1,0 +1,58 @@
+{
+  "districts": [
+    "Bagalkot",
+    "Ballari",
+    "Belagavi City",
+    "Belagavi Dist",
+    "Bengaluru City",
+    "Bengaluru Dist",
+    "Bidar",
+    "Chamarajanagar",
+    "Chickballapura",
+    "Chikkamagaluru",
+    "Chitradurga",
+    "Dakshina Kannada",
+    "Davanagere",
+    "Dharwad",
+    "Gadag",
+    "Hassan",
+    "Haveri",
+    "Hubballi Dharwad City",
+    "K.G.F",
+    "Kalaburagi",
+    "Kalaburagi City",
+    "Karnataka Railways",
+    "Kodagu",
+    "Kolar",
+    "Koppal",
+    "Mandya",
+    "Mangaluru City",
+    "Mysuru City",
+    "Mysuru Dist",
+    "Raichur",
+    "Ramanagara",
+    "Shivamogga",
+    "Tumakuru",
+    "Udupi",
+    "Uttara Kannada",
+    "Vijayanagara",
+    "Vijayapur",
+    "Yadgir"
+  ],
+  "road_types": [
+    "National Highways",
+    "Other Places",
+    "Other Roads",
+    "State Highways"
+  ],
+  "severity_classes": [
+    "Fatal",
+    "Non-Fatal"
+  ],
+  "features": [
+    "District_Name",
+    "Road_Type",
+    "Month",
+    "Year"
+  ]
+}

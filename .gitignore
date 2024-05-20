@@ -1,3 +1,8 @@
-.venv
-accident_data.csv
-merged_file.csv
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# raw data files — too large for git
+data/
+catboost_info/
